@@ -1,0 +1,66 @@
+@charset "UTF-8";
+body{
+    font-family: 'Roboto', sans-serif; 
+    background-color: #ffffff;   
+}
+.nav-link{
+    margin-left: 10px;
+    font-size: 14pt;
+}
+span{
+    color: #FD0D55;; 
+    font-weight: 700; 
+    font-style: italic;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-right: 150px;
+    font-size: 20pt;
+}
+h3,h5{
+    font-weight: 900;
+}
+.navbar-brand{    
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20pt;
+    font-style: italic;  
+    margin-right: 200px;     
+}
+.topo{
+    margin: 0px;
+}
+.titulo p{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.btn{
+    background-color: #FD0D55;
+    color: white;
+}
+.titulo{
+    padding: 20px;
+}
+.card{
+    margin-bottom: 20px; 
+    background-color: #EEEEEE;
+}
+.lista ul {
+	display: flex;
+    justify-content: space-between;
+    background-color: #FD0D55;
+    height: 50px;
+    margin: 0px;
+}
+.lista ul li {
+	list-style-type: none;
+    padding-right: 14px;
+    color: white;
+    margin-top: 10px;
+}
+.rodape{
+    background-color: #FD0D55;
+    color: white;
+    margin: 0px;
+    margin-top: 10px;
+    height: 50px;          
+}
