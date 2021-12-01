@@ -1,0 +1,43 @@
+@charset "UTF-8";
+body{
+    font-family: 'Roboto', sans-serif; 
+    background-color: #ffffff;   
+}
+.nav-link{
+    margin-left: 10px;
+    font-size: 14pt;
+}
+.disabled{
+    color: #DE0848;
+    text-decoration: none;
+    font-weight: 700;
+    font-style: italic;  
+    margin-right: 200px;  
+}
+.btn{
+    background-color: #DE0848;
+    color: white;
+}
+.titulo{
+    padding: 20px;
+}
+.card{
+    margin-bottom: 10px; 
+}
+.card-right{
+    margin-bottom: 0px;
+}
+.lista ul {
+	display: flex;
+    justify-content: space-between;
+}
+.lista ul li {
+	list-style-type: none;
+    padding-right: 14px;
+}
+footer{
+    background-color: #DE0848;
+    color: white;
+    margin: 0px;
+    height: 50px;          
+}
