@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+    font-family: 'Zen Antique', serif;
+    background-color: #F2C8A0;
+    font-size: 14pt;
+}
+.container h1, h2{
+    margin-bottom: 50px;
+}
+.card-body{
+    height: 150px;
+}
+.lista{
+    margin-top: 80px;
+    height: 500px;
+    margin-bottom: 100px;    
+}
+.footer p{
+    text-align: center;
+    font-size: 12pt;
+}
